@@ -82,7 +82,6 @@ ini
 Copy
 Edit
 RPC_URL=your_SEPOLIA_rpc_url
-PRIVATE_KEY=your_private_key
 🖥️ Running the Application
 bash
 Copy
